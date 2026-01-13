@@ -1,4 +1,4 @@
-bucket       = "remote-state-suresh-dev"
+bucket       = "remote-state-suresh-prod"
 key          = "tfvars-multi-env-demo"
 region       = "us-east-1"
 use_lockfile = true
